@@ -1,4 +1,0 @@
-0 = pore
-1 = NMC
-2 = CBD
-3 = CEI
