@@ -1,0 +1,2 @@
+NMC-based cathode:
+Red (255,0,0) stands for NMC, Green (0,255,0) for CBD, and Blue (0,0,255) for CEI (PO2O and caronates).
